@@ -1,5 +1,6 @@
 # 나의 중고 애물단지
-![image](https://github.com/jinkyung127/Najung_E/assets/131735841/5a3db0cd-09e2-44a5-80ac-c5e127ab9e2d)
+
+![image](https://github.com/jinkyung127/Najung_E/assets/131735841/25460619-dd74-4452-a90f-09118d926fb5)
 
 [Notion (ERD, API 명세서)](https://www.notion.so/65b35cf226794ceb91b8dbf4a5a46a2f)
 
